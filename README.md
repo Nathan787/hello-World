@@ -1,2 +1,3 @@
 # hello-World
 testing the tutorial
+I'M NEW TO THIS PLATAFORM, AND i HOPE I GET TO UNDERSTAND THIS TUTORIAL.
